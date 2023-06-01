@@ -11,7 +11,7 @@ const Home = () => {
         <Navbar />
       <div className="container">
           <Jumbotron />
-        <div className="cards">
+        <div className="cards d-flex">
           <Card />
           <Card />
           <Card />
